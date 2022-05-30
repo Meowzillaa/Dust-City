@@ -1516,3 +1516,684 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.30-15.37.32:456][803]LogFileHelpers: Auto-saving content packages took 0.299
 [2022.05.30-16.01.17:120][ 77]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2022.05.30-16.01.17:120][ 77]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-18.48.49:357][504]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-18.48.49:357][504]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-18.48.51:311][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.05.30-18.48.51:337][699]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/2DSideScrollerExampleMap86B02E3C4C592DAF876D179A89AE50D3.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.05.30-18.48.51:351][699]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/2DSideScrollerExampleMap_BuiltDa1E58ED7D4378BA2B8EFB87B8F9556268.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.05.30-18.48.51:363][699]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-18.48.51:363][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.05.30-18.48.51:363][699]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.05.30-18.48.51:717][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.05.30-18.48.53:750][741]LogSlate: Window 'Save Content' being destroyed
+[2022.05.30-18.48.53:832][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_attack1960D9F4F4B1A0CBA444FFDB301D2E6BF.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack1.uasset'
+[2022.05.30-18.48.53:835][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_attack240A717D74EAEF619472AFAA0256ECA17.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack2.uasset'
+[2022.05.30-18.48.53:836][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_attack3E35A5FB64852419D3B57AD8B994047D7.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack3.uasset'
+[2022.05.30-18.48.53:838][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_attack4697C00464FE99940C0D6A581BE8ED32C.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack4.uasset'
+[2022.05.30-18.48.53:840][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_attack5C4629864484E0BA1657ACEAF37C74572.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack5.uasset'
+[2022.05.30-18.48.53:842][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_attack6BAF12518409FAC10ABFCDF9D6A3C09A9.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack6.uasset'
+[2022.05.30-18.48.53:844][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_die13C2EFD5A4F054E67E056FF8DE09B3AA3.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die1.uasset'
+[2022.05.30-18.48.53:845][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_die2ED0CCCAA4267D9EA1CB4298C94B38D89.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die2.uasset'
+[2022.05.30-18.48.53:847][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_die3413068754CD866D8EDF091AA02BB5F47.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die3.uasset'
+[2022.05.30-18.48.53:849][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_die4D4E7C77446932C7B45F9BCB24D84F95F.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die4.uasset'
+[2022.05.30-18.48.53:850][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_die5DC62323147FAF5C595305C80B7CDF5FF.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die5.uasset'
+[2022.05.30-18.48.53:852][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_fly1D3D705ED4C47E3FCE372539FC2C37E16.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly1.uasset'
+[2022.05.30-18.48.53:854][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_fly278FBC759455688A15078FD9651BCA5C1.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly2.uasset'
+[2022.05.30-18.48.53:856][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_fly3293DF724439AB5362500D7BCDD3D30E8.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly3.uasset'
+[2022.05.30-18.48.53:858][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_fly49386D62449B8252F7855EB80D0DA5DB1.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly4.uasset'
+[2022.05.30-18.48.53:860][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_fly5E1B76B7D422E8F6143531495F8C8DC98.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly5.uasset'
+[2022.05.30-18.48.53:862][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_fly65615A615475A60713824429491C0E9F2.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly6.uasset'
+[2022.05.30-18.48.53:864][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_hurt152B4300D4C8095ECF261A8AA215848B2.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_hurt/Bat_hurt1.uasset'
+[2022.05.30-18.48.53:865][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Bat_hurt224753C5C48E32403F2C8ECB78F9D06D6.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Bat_list/Bat_hurt/Bat_hurt2.uasset'
+[2022.05.30-18.48.53:867][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Magic_attack134B3215D47954FEF34A1A0932A2094B2.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack1.uasset'
+[2022.05.30-18.48.53:869][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Magic_attack2D664F5714C7DCED6A8F80BA421A93CBB.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack2.uasset'
+[2022.05.30-18.48.53:870][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Magic_attack36A0854AB477CD3515F7F04B43D8A35AA.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack3.uasset'
+[2022.05.30-18.48.53:872][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Magic_attack40CD0FEB24E1C20E9D50BAB8B138353D2.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack4.uasset'
+[2022.05.30-18.48.53:873][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump1A57B6D70490E60F45652F18AF53DB486.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump1.uasset'
+[2022.05.30-18.48.53:875][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump10314CDEFD4C12BABE6C1FC88CBE46874F.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump10.uasset'
+[2022.05.30-18.48.53:877][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump11E0345F3349F74AB99480A0BC04D57BF7.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump11.uasset'
+[2022.05.30-18.48.53:878][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump12BD6CC89B41E4B9776991EA9C6CC168F3.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump12.uasset'
+[2022.05.30-18.48.53:880][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump1303BEA1D54232413E895D519A4AA29C0A.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump13.uasset'
+[2022.05.30-18.48.53:881][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump22228DED24BFE2D34F215079825021A32.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump2.uasset'
+[2022.05.30-18.48.53:883][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump348968DF9423E6637F1FA92BF33BBD491.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump3.uasset'
+[2022.05.30-18.48.53:884][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump413973E2C443A5338B6516580EF5BC1EA.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump4.uasset'
+[2022.05.30-18.48.53:886][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump5B1E11DF44BD904EBF5482C834AC5C3F5.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump5.uasset'
+[2022.05.30-18.48.53:887][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump6D877379F4725789537AB02BC6FAD63C2.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump6.uasset'
+[2022.05.30-18.48.53:889][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump71138CF094C232F3BDBE166A156805B02.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump7.uasset'
+[2022.05.30-18.48.53:891][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump84734115D43DA9127574757B87790717B.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump8.uasset'
+[2022.05.30-18.48.53:892][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_jump91AEA929943DE33A120CDAAB42CA6F5BC.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump9.uasset'
+[2022.05.30-18.48.53:894][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_stand14BF469D440C801384CED1087E7E1229B.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand1.uasset'
+[2022.05.30-18.48.53:896][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_stand2D197DE424D121C5B9845919ABC31C32C.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand2.uasset'
+[2022.05.30-18.48.53:897][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_stand3388D164A4A0D0E05B1D465A207F1A031.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand3.uasset'
+[2022.05.30-18.48.53:899][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_stand435750A4D471712061F9DBF99903BFE01.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand4.uasset'
+[2022.05.30-18.48.53:900][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_attack_stand50400931D446F300ECB9CFBBB2A862621.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand5.uasset'
+[2022.05.30-18.48.53:902][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_die14E860AD44B2D9E4608197C81C62B7D2E.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die1.uasset'
+[2022.05.30-18.48.53:904][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_die267A1C2454AABFDBC8BA118851976341D.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die2.uasset'
+[2022.05.30-18.48.53:906][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_die32E6C3D0F4035ADDCE6EA70A2E86F34A0.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die3.uasset'
+[2022.05.30-18.48.53:908][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_die457B665E84AC20EDEE1BB509B962028AD.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die4.uasset'
+[2022.05.30-18.48.53:909][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_hurt161BD416146D176B6D98F35936235D932.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_hurt_list/Rat_hurt1.uasset'
+[2022.05.30-18.48.53:912][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_hurt269941550452CEAF5AE9CA5AE3EA4C9CB.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_hurt_list/Rat_hurt2.uasset'
+[2022.05.30-18.48.53:913][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_hurt3ADF324EA44B29287504A6288A198A225.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_hurt_list/Rat_hurt3.uasset'
+[2022.05.30-18.48.53:915][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run17F32AEDB400BB0723FC652828658B4F2.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run1.uasset'
+[2022.05.30-18.48.53:917][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run253D5FB1C41D92576CE04AFB6FBD5D8D0.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run2.uasset'
+[2022.05.30-18.48.53:918][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run3D6F09F0D42385815673549A51A2E8FE4.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run3.uasset'
+[2022.05.30-18.48.53:920][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run4D5C11EEB4C2412117C2A078128570C0F.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run4.uasset'
+[2022.05.30-18.48.53:922][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run596A5122D4A6E645637916F896B58D86B.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run5.uasset'
+[2022.05.30-18.48.53:924][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run689B3B78B4D817C0A3780BDADD1A04A59.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run6.uasset'
+[2022.05.30-18.48.53:926][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_run72FE58BC8493922ACC81BBEA7F3D91167.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run7.uasset'
+[2022.05.30-18.48.53:928][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_stand15419504B42FC0D6255DC019BC7E6E47D.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand1.uasset'
+[2022.05.30-18.48.53:929][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_stand2ED2385A1400716C5EF89B0B16AAB3919.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand2.uasset'
+[2022.05.30-18.48.53:931][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_stand34847163B4EB8998860AF6DAE70134C08.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand3.uasset'
+[2022.05.30-18.48.53:933][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_stand49FF068FA4C0BBA6B4906CEBC1EF8BCF3.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand4.uasset'
+[2022.05.30-18.48.53:934][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_stand56F7FBC2645E558239F68EC9278BAA3AB.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand5.uasset'
+[2022.05.30-18.48.53:935][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Rat_stand6208E14D842ABEC1C5C7D489A3C8A90DD.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand6.uasset'
+[2022.05.30-18.48.53:938][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Repuls13F36AA8F4705234EF442BABFB6B0196E.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls1.uasset'
+[2022.05.30-18.48.53:940][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Repuls236B280EA4B6068504EBC9991AE739B11.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls2.uasset'
+[2022.05.30-18.48.53:943][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Repuls304049D6E4C464B6CD90DC98F975B8DAC.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls3.uasset'
+[2022.05.30-18.48.53:945][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Repuls46E3CD3F548CE6C98D0E4B59EAD67E224.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls4.uasset'
+[2022.05.30-18.48.53:948][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Shield19491B3A7499EDD3AA22920AD3B2FB9F5.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield1.uasset'
+[2022.05.30-18.48.53:951][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Shield277890C2D4E947975327452AF8AE21543.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield2.uasset'
+[2022.05.30-18.48.53:953][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Shield33B9679B8474DCB59774275AFB1727A52.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield3.uasset'
+[2022.05.30-18.48.53:956][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Shield438C90EFB41A01ECDC24CCFA0C6C79ADC.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield4.uasset'
+[2022.05.30-18.48.53:959][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack19108314A433AFD5EA8012287C78754C7.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack1.uasset'
+[2022.05.30-18.48.53:961][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack2C664D04F44B6F1B5299F229A258F5C08.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack2.uasset'
+[2022.05.30-18.48.53:963][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack3B1CFD8D74F4628CCCAAAD19E835A3A75.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack3.uasset'
+[2022.05.30-18.48.53:966][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack4680303A644C632030598DB9C5CFB73B6.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack4.uasset'
+[2022.05.30-18.48.53:968][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack58070ADC0405808FF510438AD427C2C62.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack5.uasset'
+[2022.05.30-18.48.53:970][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack60757871F40D1153A2B6D7AB810D276D7.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack6.uasset'
+[2022.05.30-18.48.53:973][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack75145A06F4DAC9D48ABEE8BAA08D2EB19.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack7.uasset'
+[2022.05.30-18.48.53:975][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_attack8427229D54B9882D29FE28A9D20802939.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack8.uasset'
+[2022.05.30-18.48.53:977][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_die157AEECC6449B4C4C80463DA813116C7C.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die1.uasset'
+[2022.05.30-18.48.53:979][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_die2399A31704DC1BE0C43A2C9B7ADF3F00B.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die2.uasset'
+[2022.05.30-18.48.53:981][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_die314A2FC68444E69DAF49A2D94315297F1.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die3.uasset'
+[2022.05.30-18.48.53:983][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_die490D8C98249D6475340B2AAB5B9C48498.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die4.uasset'
+[2022.05.30-18.48.53:984][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_die50DAF60424BBDE6F1B4A3ACAECB6C5D93.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die5.uasset'
+[2022.05.30-18.48.53:986][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_die629B55DBA44FA9510AF6688AC8D1570C5.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die6.uasset'
+[2022.05.30-18.48.53:988][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_go1F1CB8CFB42BC23AAB8A812AE1CD7ED33.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go1.uasset'
+[2022.05.30-18.48.53:991][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_go2C22D550649E44943293E48A589638F46.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go2.uasset'
+[2022.05.30-18.48.53:992][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_go37D7B761842510352C2066788C6ABB4AE.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go3.uasset'
+[2022.05.30-18.48.53:997][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_go456FCEB0042921542AB774C9D7648966A.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go4.uasset'
+[2022.05.30-18.48.54:000][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_go55CA0CFA94F3474D684525388F348DCC7.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go5.uasset'
+[2022.05.30-18.48.54:002][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_hurt1BE881A6F469F894484FF66981B5AEF0A.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_hurt/Skeleton_hurt1.uasset'
+[2022.05.30-18.48.54:004][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_hurt2E4AD327A41F9F73E6272B2ACFD63D8B4.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_hurt/Skeleton_hurt2.uasset'
+[2022.05.30-18.48.54:006][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_hurt31DAD6E914E9285845F09D39DEED668FF.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_hurt/Skeleton_hurt3.uasset'
+[2022.05.30-18.48.54:008][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_stand18BF1B67A46913BE6737B628C85A2C791.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand1.uasset'
+[2022.05.30-18.48.54:010][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_stand2FB2399EE4D756550BFB39BA671902728.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand2.uasset'
+[2022.05.30-18.48.54:012][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_stand3A7B044D64F2779C185B8E5B7DCCFF586.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand3.uasset'
+[2022.05.30-18.48.54:014][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_stand4436A9BBE49D7EC577EC114A8BAD7D2F3.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand4.uasset'
+[2022.05.30-18.48.54:016][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Skeleton_stand59BA5FC3743444E4F65D4BC87964EE2E8.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand5.uasset'
+[2022.05.30-18.48.54:017][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Soul1FE81FEBB47361811ED0580B398CB0104.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul1.uasset'
+[2022.05.30-18.48.54:019][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Soul2525E1C0E4D413911F25365B9736E758B.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul2.uasset'
+[2022.05.30-18.48.54:021][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Soul332B0A3D64CD1255E7763E9A4B8259F9D.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul3.uasset'
+[2022.05.30-18.48.54:023][741]LogSavePackage: Moving 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Saved/Soul491C7EB97412E3C49E9166E936E106644.tmp' to 'C:/Users/Dan/Documents/Dust City Rep/Dust-City/Content/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul4.uasset'
+[2022.05.30-18.48.54:094][741]LogSlate: Window 'Coronavenia - Unreal Editor' being destroyed
+[2022.05.30-18.48.54:406][741]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack1.Bat_attack1
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand5.Skeleton_stand5
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand4.Skeleton_stand4
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand3.Skeleton_stand3
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand2.Skeleton_stand2
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_stand/Skeleton_stand1.Skeleton_stand1
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_hurt/Skeleton_hurt3.Skeleton_hurt3
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_hurt/Skeleton_hurt2.Skeleton_hurt2
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_hurt/Skeleton_hurt1.Skeleton_hurt1
+[2022.05.30-18.48.54:406][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go5.Skeleton_go5
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go4.Skeleton_go4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go3.Skeleton_go3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go2.Skeleton_go2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_go/Skeleton_go1.Skeleton_go1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die6.Skeleton_die6
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die5.Skeleton_die5
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die4.Skeleton_die4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die3.Skeleton_die3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die2.Skeleton_die2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_die/Skeleton_die1.Skeleton_die1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack8.Skeleton_attack8
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack7.Skeleton_attack7
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack6.Skeleton_attack6
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack5.Skeleton_attack5
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack4.Skeleton_attack4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack3.Skeleton_attack3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack2.Skeleton_attack2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Skeleton_list/Skeleton_attack/Skeleton_attack1.Skeleton_attack1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack2.Bat_attack2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack3.Bat_attack3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack4.Bat_attack4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack5.Bat_attack5
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_attack/Bat_attack6.Bat_attack6
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die1.Bat_die1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die2.Bat_die2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die3.Bat_die3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die4.Bat_die4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_die/Bat_die5.Bat_die5
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly1.Bat_fly1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly2.Bat_fly2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly3.Bat_fly3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly4.Bat_fly4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly5.Bat_fly5
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_fly/Bat_fly6.Bat_fly6
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_hurt/Bat_hurt1.Bat_hurt1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Bat_list/Bat_hurt/Bat_hurt2.Bat_hurt2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack1.Magic_attack1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack2.Magic_attack2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack3.Magic_attack3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/magic_attack/Magic_attack4.Magic_attack4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls1.Repuls1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls2.Repuls2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls3.Repuls3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Repuls/Repuls4.Repuls4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield1.Shield1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield2.Shield2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield3.Shield3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Shield/Shield4.Shield4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul1.Soul1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul2.Soul2
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul3.Soul3
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Magic_list/Soul/Soul4.Soul4
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump1.Rat_attack_jump1
+[2022.05.30-18.48.54:407][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump10.Rat_attack_jump10
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump11.Rat_attack_jump11
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump12.Rat_attack_jump12
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump13.Rat_attack_jump13
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump2.Rat_attack_jump2
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump3.Rat_attack_jump3
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump4.Rat_attack_jump4
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump5.Rat_attack_jump5
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump6.Rat_attack_jump6
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump7.Rat_attack_jump7
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump8.Rat_attack_jump8
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_jump_list/Rat_attack_jump9.Rat_attack_jump9
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand1.Rat_attack_stand1
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand2.Rat_attack_stand2
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand3.Rat_attack_stand3
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand4.Rat_attack_stand4
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_attack_stand_list/Rat_attack_stand5.Rat_attack_stand5
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die1.Rat_die1
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die2.Rat_die2
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die3.Rat_die3
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_die_list/Rat_die4.Rat_die4
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_hurt_list/Rat_hurt1.Rat_hurt1
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_hurt_list/Rat_hurt2.Rat_hurt2
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_hurt_list/Rat_hurt3.Rat_hurt3
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run1.Rat_run1
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run2.Rat_run2
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run3.Rat_run3
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run4.Rat_run4
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run5.Rat_run5
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run6.Rat_run6
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_run_list/Rat_run7.Rat_run7
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand1.Rat_stand1
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand2.Rat_stand2
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand3.Rat_stand3
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand4.Rat_stand4
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand5.Rat_stand5
+[2022.05.30-18.48.54:408][741]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/LevelAssets/Rat_list/Rat_stand_list/Rat_stand6.Rat_stand6
+[2022.05.30-18.48.54:409][742]Cmd: QUIT_EDITOR
+[2022.05.30-18.48.54:409][742]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.30-18.48.54:414][742]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.30-18.48.54:417][742]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.30-18.48.54:417][742]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.30-18.48.54:417][742]LogAudio: Display: Audio Device unregistered from world '2DSideScrollerExampleMap'.
+[2022.05.30-18.48.54:447][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.30-18.48.54:449][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.30-18.48.54:458][742]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.30-18.48.54:458][742]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-18.48.54:464][742]LogExit: Preparing to exit.
+[2022.05.30-18.48.54:792][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.30-18.48.54:997][742]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-18.48.55:062][742]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.30-18.48.55:076][742]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-18.48.55:077][742]LogExit: Editor shut down
+[2022.05.30-18.48.55:083][742]LogExit: Transaction tracking system shut down
+[2022.05.30-18.48.55:466][742]LogExit: Object subsystem successfully closed.
+[2022.05.30-18.48.55:490][742]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.30-18.48.55:490][742]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.30-18.48.55:490][742]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.30-18.48.55:490][742]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.30-18.48.55:490][742]LogShaderCompilers: Display: ================================================
+[2022.05.30-18.48.55:505][742]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.30-18.48.55:525][742]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.30-18.48.55:525][742]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.30-18.48.55:525][742]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.05.30-18.48.55:536][742]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.30-18.48.55:537][742]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.30-18.48.55:538][742]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.30-18.48.57:012][742]MemoryProfiler: Shutdown
+[2022.05.30-18.48.57:012][742]NetworkingProfiler: Shutdown
+[2022.05.30-18.48.57:012][742]LoadingProfiler: Shutdown
+[2022.05.30-18.48.57:012][742]TimingProfiler: Shutdown
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.30-18.48.57:012][742]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.30-18.48.57:013][742]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.30-18.48.57:046][742]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.30-18.48.57:047][742]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.30-18.48.57:048][742]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.30-18.48.57:052][742]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.30-18.48.57:136][742]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (566)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (540)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (538)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (536)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (534)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (532)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (530)
+[2022.05.30-18.48.57:137][742]LogOpenImageDenoise: OIDN shutting down
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (528)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MotoSynth (526)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (516)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (514)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (512)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (504)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (500)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module FractureEditor (496)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (492)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AutomationUtils (490)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module BackChannel (488)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2022.05.30-18.48.57:137][742]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (478)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (474)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module UObjectPlugin (470)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (468)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (466)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (462)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (460)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module PluginBrowser (458)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (456)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (454)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (452)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module GitSourceControl (450)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module SourceControl (449)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (446)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (444)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module CryptoKeys (442)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module CurveEditorTools (440)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (438)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.05.30-18.48.57:138][742]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.05.30-18.48.57:197][742]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.05.30-18.48.57:298][742]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.05.30-18.48.57:399][742]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module GameplayCameras (338)
+[2022.05.30-18.48.57:399][742]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2022.05.30-18.48.57:400][742]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.30-18.48.57:402][742]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.30-18.48.57:403][742]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.30-18.48.57:403][742]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.30-18.48.57:410][742]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.30-18.48.57:411][742]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.30-18.48.57:412][742]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.30-18.48.57:412][742]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.30-18.48.57:412][742]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.30-18.48.57:414][742]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.30-18.48.57:415][742]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.30-18.48.57:421][742]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.30-18.48.57:421][742]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.30-18.48.57:421][742]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.30-18.48.57:421][742]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.30-18.48.57:421][742]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.30-18.48.57:430][742]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.30-18.48.57:434][742]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.30-18.48.57:452][742]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.30-18.48.57:452][742]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.30-18.48.57:452][742]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.30-18.48.57:452][742]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.30-18.48.57:452][742]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.30-18.48.57:453][742]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2022.05.30-18.48.57:453][742]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2022.05.30-18.48.57:467][742]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.30-18.48.57:467][742]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.30-18.48.57:467][742]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.30-18.48.57:467][742]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.30-18.48.57:476][742]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.30-18.48.57:476][742]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.30-18.48.57:476][742]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.05.30-18.48.57:476][742]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.05.30-18.48.57:476][742]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.30-18.48.57:477][742]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.30-18.48.57:477][742]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.30-18.48.57:503][742]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.30-18.48.57:503][742]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.30-18.48.57:503][742]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAB3486E-48DE-1F4B-6D9E-A4A857A9BCA0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1e4f96cf43e79f34227703b2b9691a48%7C7306fe91e8274d219765f3ff280e08a2%7Cce0e6346-82ab-4219-9e2c-2781babe0a49&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.30-18.48.57:503][742]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.30-18.48.57:511][742]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.30-18.48.57:512][742]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.30-18.48.57:513][742]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.05.30-18.48.57:514][742]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.30-18.48.57:515][742]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.30-18.48.57:516][742]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.30-18.48.57:516][742]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.30-18.48.57:531][742]LogD3D11RHI: Shutdown
+[2022.05.30-18.48.57:531][742]LogD3D11RHI: CleanupD3DDevice
+[2022.05.30-18.48.57:535][742]LogExit: Exiting.
+[2022.05.30-18.48.57:543][742]Log file closed, 05/30/22 21:48:57
